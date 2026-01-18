@@ -147,11 +147,6 @@ Spring-Boot-Spring-MVC-MySQL/
 
 <img width="1178" height="587" alt="image" src="https://github.com/user-attachments/assets/c0b1b1df-581a-4758-90f8-0b493e595a41" />
 
-
-
-
-> **Note:** Add screenshots to a `screenshots/` folder in your repository
-
 ## 🔗 API Endpoints
 
 | Method | Endpoint | Description |
@@ -178,21 +173,7 @@ Contributions are welcome! Here's how you can help:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👤 Author
 
-**Youssef Elamir**
-- GitHub: [@youssefelamir27](https://github.com/youssefelamir27)
 
-## 🙏 Acknowledgments
 
-- Spring Boot Documentation
-- Bootstrap Team
-- MySQL Community
 
----
-
-⭐ If you found this project helpful, please give it a star!
-
-## 📞 Contact
-
-For any questions or feedback, feel free to reach out or open an issue in the repository.
